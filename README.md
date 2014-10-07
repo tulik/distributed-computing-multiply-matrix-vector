@@ -1,3 +1,3 @@
-Distributed Computing
+Revere Polish Notatnion Calculator
 =======================
-Distributed Computing program Multiplying Matrix by Vector i C language
+Revere Polish Notatnion Calculator with Complex number support
