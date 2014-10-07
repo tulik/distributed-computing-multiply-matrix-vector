@@ -1,2 +1,3 @@
-Distributed Computing program Multiplying Matrix by Vector
+Distributed Computing
 =======================
+Distributed Computing program Multiplying Matrix by Vector
